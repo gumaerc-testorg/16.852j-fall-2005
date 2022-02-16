@@ -3,8 +3,13 @@ content_type: resource
 description: This resource provides information on topics such as impact of computing,
   deciphering the alphabet soup, role of information systems, challenges in enterprise
   integration, and a case study on product data management.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-852j-integrating-the-lean-enterprise-fall-2005/f66ae46fd4a7dee7563031d6a0a0dc6a_14_ent_info_sys.pdf
+file: /media/courses/16-852j-integrating-the-lean-enterprise-fall-2005/f66ae46fd4a7dee7563031d6a0a0dc6a_14_ent_info_sys.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 14_ent_info_sys.pdf
 uid: f66ae46f-d4a7-dee7-5630-31d6a0a0dc6a

@@ -4,8 +4,13 @@ description: This resource provides information on topics such as metrics and pe
   measurement, performance measurement and lean transformation, current practices
   and performance measurement frameworks and performance measurement system for the
   lean enterprise
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-852j-integrating-the-lean-enterprise-fall-2005/d0f6ec325ea2757e7cba0a775e660a68_12_metrics.pdf
+file: /media/courses/16-852j-integrating-the-lean-enterprise-fall-2005/d0f6ec325ea2757e7cba0a775e660a68_12_metrics.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 12_metrics.pdf
 uid: d0f6ec32-5ea2-757e-7cba-0a775e660a68
