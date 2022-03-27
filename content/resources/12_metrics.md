@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f2d46a9-0716-ea95-1809-6d91eb1a5a16
 resourcetype: Document
 title: 12_metrics.pdf
 uid: d0f6ec32-5ea2-757e-7cba-0a775e660a68

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 298e5fe3-3ff1-c85b-bfe9-e4b9d48cef52
 resourcetype: Document
 title: white_mit_thesis.pdf
 uid: 2234bf4c-1401-e3c4-6d10-fd5634b6bea0

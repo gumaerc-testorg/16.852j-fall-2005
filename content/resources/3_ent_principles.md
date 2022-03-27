@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f2d46a9-0716-ea95-1809-6d91eb1a5a16
 resourcetype: Document
 title: 3_ent_principles.pdf
 uid: 21d6a456-7571-66d2-cf87-6353d188f23f

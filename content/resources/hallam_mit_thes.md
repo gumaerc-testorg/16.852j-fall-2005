@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 298e5fe3-3ff1-c85b-bfe9-e4b9d48cef52
 resourcetype: Document
 title: hallam_mit_thes.pdf
 uid: dbecc67d-04bd-6d17-bdf0-89fc98b3340d

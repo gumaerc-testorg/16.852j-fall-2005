@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f2d46a9-0716-ea95-1809-6d91eb1a5a16
 resourcetype: Document
 title: 16_ent_integrat.pdf
 uid: 692b85ed-225a-2844-7016-47c5db686f29

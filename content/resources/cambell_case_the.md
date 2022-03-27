@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 298e5fe3-3ff1-c85b-bfe9-e4b9d48cef52
 resourcetype: Document
 title: cambell_case_the.pdf
 uid: f4f55b19-a0e8-311e-5f67-cd7e806d887f

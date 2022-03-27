@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 298e5fe3-3ff1-c85b-bfe9-e4b9d48cef52
 resourcetype: Document
 title: grossi_thesis.pdf
 uid: 815f96a9-0001-b197-f1db-59303a8c9f8a

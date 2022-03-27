@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a405bbab-3e30-4962-856e-fad41eb13eb8
 resourcetype: Document
 title: lesat_case_1.pdf
 uid: 789dd1c5-41ee-03d3-2817-473d91b95477
