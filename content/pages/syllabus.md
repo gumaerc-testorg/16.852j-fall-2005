@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section provides information about the course overview,
+  class topics, team projects, individual assignments, required readings, references
+  and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d7b57d03-805b-f0c5-bc9f-f7f4ac3e7b49
 ---
