@@ -7,6 +7,7 @@ file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/7851ef926c4afbe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 11_ppl_and_organ.pdf
 uid: 7851ef92-6c4a-fbe4-1ce4-0f592530dc52
 ---
 This resource provides information on topics such as people and organizational issues, significant differences in the performance of mass and lean enterprises, lean and organizational theory, and approaches to managing organizational effectiveness.
-

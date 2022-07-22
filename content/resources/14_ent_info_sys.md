@@ -7,6 +7,7 @@ file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/f66ae46fd4a7dee
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 14_ent_info_sys.pdf
 uid: f66ae46f-d4a7-dee7-5630-31d6a0a0dc6a
 ---
 This resource provides information on topics such as impact of computing, deciphering the alphabet soup, role of information systems, challenges in enterprise integration, and a case study on product data management.
-

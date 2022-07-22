@@ -6,6 +6,7 @@ file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/f4f55b19a0e8311
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cambell_case_the.pdf
 uid: f4f55b19-a0e8-311e-5f67-cd7e806d887f
 ---
 This resource provides information about military products from commercial lines industrial base pilot program.
-

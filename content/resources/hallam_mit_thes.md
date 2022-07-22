@@ -6,6 +6,7 @@ file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/dbecc67d04bd6d1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hallam_mit_thes.pdf
 uid: dbecc67d-04bd-6d17-bdf0-89fc98b3340d
 ---
 This resource provides information about Lean enterprise self-assessment as a leading indicator for accelerating transformation in the aerospace industry.
-

@@ -6,6 +6,7 @@ file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/2095be6552fa91c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 10_ent_int_waste.pdf
 uid: 2095be65-52fa-91c8-2357-de31a90b56c3
 ---
 This resource provides information on topics such as enterprise interactions, x-matrix and enterprise-level wastes.
-

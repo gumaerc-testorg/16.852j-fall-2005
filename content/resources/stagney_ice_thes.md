@@ -5,6 +5,7 @@ file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/5e5a0298964f661
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stagney_ice_thes.pdf
 uid: 5e5a0298-964f-661f-15c9-a4acb9bee30a
 ---
 This resource provides information about the Integrated Concurrent Enterprise.
-
