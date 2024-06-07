@@ -4,6 +4,7 @@ description: This resource provides information on topics such as lean enterpris
   implementation processes and tools, LEM overarching practices, lean transformation
   issues, and key principles of change management.
 file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/f84f6e7cb9651c166d4192c1738ba996_6_trans_leanroad.pdf
+file_size: 371362
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

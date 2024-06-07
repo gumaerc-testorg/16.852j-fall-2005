@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about the course, syllabus, logistics,
   survey, learning objectives and class schedule.
 file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/7b44ff53afc43f3835c49a3696cd2465_1_course_overvie.pdf
+file_size: 75063
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
