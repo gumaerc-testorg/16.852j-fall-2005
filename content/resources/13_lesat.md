@@ -4,6 +4,7 @@ description: This resource provides information on topics such as LESAT architec
   and practices, assessment process, case studies discussion, assessment results,
   and transformation insights.
 file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/97109a44a275d639b4321176d777d20a_13_lesat.pdf
+file_size: 420534
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

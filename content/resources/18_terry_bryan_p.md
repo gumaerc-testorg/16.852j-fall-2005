@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provide information on the topic of air force lean now
   initiative established in collaboration with LAI.
 file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/ae02706e1c24322eebf638826deb8230_18_terry_bryan_p.pdf
+file_size: 1365633
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

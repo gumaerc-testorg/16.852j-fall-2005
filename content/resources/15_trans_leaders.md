@@ -4,6 +4,7 @@ description: This resource provides information on topics such as management vs.
   8 steps to transforming your organization, and 20th and 21st century organizations
   compared.
 file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/7636f253659d315796e359b777f2c66e_15_trans_leaders.pdf
+file_size: 298448
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
