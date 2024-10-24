@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on topics such as lean thinking, and
   lean engineering.
-file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/aa20311b143eac0d0c7046f658ff9c94_9_mit_sys_engmfg.pdf
+file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/aa20311b143eac0d0c7046f658ff9c94_9_mit_sys_engmfg.pdf
 file_size: 2651887
 file_type: application/pdf
 learning_resource_types:
