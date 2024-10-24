@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about using stakeholder value analysis
   to build exploration sustainability.
-file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/f6e32f891ce98edf3345b75d44c5b1eb_rebentisch_nasa.pdf
+file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/f6e32f891ce98edf3345b75d44c5b1eb_rebentisch_nasa.pdf
 file_size: 430730
 file_type: application/pdf
 learning_resource_types:

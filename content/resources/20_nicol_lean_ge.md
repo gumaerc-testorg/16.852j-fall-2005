@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on process improvement as a catalyst
   for innovation, examples from high throughput DNA sequencing, and petrochemicals
   to genomics.
-file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/32822b5762f8d005ea66c0d71781983f_20_nicol_lean_ge.pdf
+file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/32822b5762f8d005ea66c0d71781983f_20_nicol_lean_ge.pdf
 file_size: 4428056
 file_type: application/pdf
 learning_resource_types:
