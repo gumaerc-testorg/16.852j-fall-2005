@@ -4,7 +4,7 @@ description: 'This resource provides information about Lean Enterprise Self-Asse
   Tool (LESAT)
 
   Case Studies for Enterprise Transformation Training.'
-file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/789dd1c541ee03d32817473d91b95477_lesat_case_1.pdf
+file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/789dd1c541ee03d32817473d91b95477_lesat_case_1.pdf
 file_size: 208329
 file_type: application/pdf
 learning_resource_types:

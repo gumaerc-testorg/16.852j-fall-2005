@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about Lean enterprise self-assessment
   as a leading indicator for accelerating transformation in the aerospace industry.
-file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/dbecc67d04bd6d17bdf089fc98b3340d_hallam_mit_thes.pdf
+file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/dbecc67d04bd6d17bdf089fc98b3340d_hallam_mit_thes.pdf
 file_size: 134471
 file_type: application/pdf
 learning_resource_types:
