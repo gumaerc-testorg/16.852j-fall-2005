@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about the Integrated Concurrent Enterprise.
-file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/5e5a0298964f661f15c9a4acb9bee30a_stagney_ice_thes.pdf
+file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/5e5a0298964f661f15c9a4acb9bee30a_stagney_ice_thes.pdf
 file_size: 891563
 file_type: application/pdf
 learning_resource_types:

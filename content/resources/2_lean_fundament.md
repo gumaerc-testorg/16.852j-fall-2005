@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on topics such as lean is a new approach
   to managing enterprise, lean enterprise value, and lean thinking.
-file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/4a7a846625400cf4768bf6a0ac846771_2_lean_fundament.pdf
+file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/4a7a846625400cf4768bf6a0ac846771_2_lean_fundament.pdf
 file_size: 3826505
 file_type: application/pdf
 learning_resource_types:

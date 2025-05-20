@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as enterprise perspective,
   enterprise value streams, three levels of enterprises, stakeholders, principles
   of lean enterprises, and enterprise value stream analysis.
-file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/21d6a456757166d2cf876353d188f23f_3_ent_principles.pdf
+file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/21d6a456757166d2cf876353d188f23f_3_ent_principles.pdf
 file_size: 815340
 file_type: application/pdf
 learning_resource_types:

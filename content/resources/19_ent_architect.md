@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as expanding enterprise
   focus, the challenge of complex enterprise systems, integrated enterprise, evolution
   of lean, and systems approach to enterprise.
-file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/90d0ebc083d2994bd50a074cf7185fdd_19_ent_architect.pdf
+file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/90d0ebc083d2994bd50a074cf7185fdd_19_ent_architect.pdf
 file_size: 429748
 file_type: application/pdf
 learning_resource_types:
