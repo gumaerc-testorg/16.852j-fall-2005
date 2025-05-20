@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on topics such as lean engineering,
   product development, value measurement, waste drivers, and making processes flow.
-file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/07511f081e0123301d704a0e08ed8873_8_rebentisc_leng.pdf
+file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/07511f081e0123301d704a0e08ed8873_8_rebentisc_leng.pdf
 file_size: 962889
 file_type: application/pdf
 learning_resource_types:
