@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about military products from commercial
   lines industrial base pilot program.
-file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/f4f55b19a0e8311e5f67cd7e806d887f_cambell_case_the.pdf
+file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/f4f55b19a0e8311e5f67cd7e806d887f_cambell_case_the.pdf
 file_size: 193649
 file_type: application/pdf
 learning_resource_types:
