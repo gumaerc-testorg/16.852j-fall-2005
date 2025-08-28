@@ -4,7 +4,7 @@ description: This resource provides information about Stakeholder Analysis in th
   Context of the Lean Enterprise by Ignacio Grossi and submitted to the System Design
   and Management Program in partial fulfillment of the requirements for the degree
   of Master of Science in Engineering and Management.
-file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/815f96a90001b197f1db59303a8c9f8a_grossi_thesis.pdf
+file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/815f96a90001b197f1db59303a8c9f8a_grossi_thesis.pdf
 file_size: 1547788
 file_type: application/pdf
 learning_resource_types:

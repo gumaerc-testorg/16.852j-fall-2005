@@ -5,7 +5,7 @@ description: 'This resource provides information on topics such as lean supply c
 
   approach to organizing interfirm relationships, and synchronized production and
   delivery.'
-file: /courses/16-852j-integrating-the-lean-enterprise-fall-2005/b84427c2a4b274735b3ce50049e0c46a_7_lean_sup_ch_mg.pdf
+file: /ol-ocw-studio-app/courses/16-852j-integrating-the-lean-enterprise-fall-2005/b84427c2a4b274735b3ce50049e0c46a_7_lean_sup_ch_mg.pdf
 file_size: 694147
 file_type: application/pdf
 learning_resource_types:
